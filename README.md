@@ -54,6 +54,9 @@
 
 ## Output:
 
+<img width="966" height="675" alt="image" src="https://github.com/user-attachments/assets/066f2bf9-ce46-44c9-8aaa-768fb37d5435" />
+
+
 
 ### Name:
 ### Register Number: 
